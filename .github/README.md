@@ -9,7 +9,7 @@
 [<img src="https://github.com/Asad0111/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/asad0111)
 
 <p align="center">
-<img src="[https://telegra.ph/file/ca02344736635ce43087a.jpg]">
+<img src="https://telegra.ph/file/ca02344736635ce43087a.jpg">
 </p>
 
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
