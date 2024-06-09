@@ -1,4 +1,4 @@
-<a href="https://github.com/Mrxbroken011"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+MrBroken+;From+Chandhighar%2C+India+%F0%9F%9A%A9;Python+Dev!;Telegram%3A+%40Brokenxnetwork" alt="https://t.me/Brokenxnetwork" /></a>
+<a href="https://github.com/Mrxbroken011"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+MrBroken+;From+Chandhighar%2C+India;Python+Dev!;Telegram%3A+%40Brokenxnetwork" alt="https://t.me/Brokenxnetwork" /></a>
 
 
 [<img src="https://github.com/mrxbroken011/Brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
